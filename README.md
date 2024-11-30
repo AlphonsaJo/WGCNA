@@ -8,7 +8,7 @@ Weighted Gene Co-Expression Network Analysis (WGCNA) is a systems biology method
 ---
 
 
-This repository consists of the following files obtained as part of my 7th semester project for Mining of Massive Datasets course:
+This repository consists of the following files obtained as part of my 7th semester course project:
 1) R script to create the co-expression network for the given dataset
 2) Heatmap
 3) PCA Variance Plot
