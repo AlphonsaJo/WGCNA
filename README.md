@@ -14,3 +14,4 @@ This repository consists of the following files obtained as part of my 7th semes
 3) PCA Variance Plot
 4) Dendrogram
 5) Connectivity Distribution Plot
+6) A summary of the analysis obtained
