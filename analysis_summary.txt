@@ -1,0 +1,13 @@
+Kmeans for 5 clusters
+
+WGCNA Analysis Summary
+====================
+Soft Power Threshold: 10 
+Number of Modules: 3 
+K-means Clustering Centers:
+        PC1         PC2
+1 142.01087 -46.3140890
+2  51.99325 -13.6946505
+3  10.78221  -3.3372909
+4  -1.70012   0.4038145
+5 393.00388 118.7324499
